@@ -1,0 +1,3 @@
+[submodule "protos-auth"]
+	path = protos-auth
+	url = git@github.com:takurum/protos-auth.git
